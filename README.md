@@ -3,7 +3,7 @@ Este projeto pode ser baixado e alterado como você desejar, pode usar como quis
 #compartilhe_conhecimento
 
 ###  Tecnologias do Projeto:
-<img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />   <img align = "center" alt = "pycharm" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 
 Neste projeto, aprendemos a trabalhar com variáveis de diversos tipos,<br/>
 como gerar um número aleatório, como tomar decisões através de if else!<br/>
